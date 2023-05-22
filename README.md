@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Vadim.</h2>
 
 - 🇷🇺 I live in Moscow, Russia
-- 🕸 Junior Front-end Developer
+- 🕸 Front-end Develop
 - 🔍 ~~Looking for a job~~
 - 📩 You can write to [email](mailto:vad.igumnoff@gmail.com)
 - 🧑🏻 My CV available [here](https://hh.ru/resume/d7c90c5cff09bc2ba50039ed1f4c6731613136)
