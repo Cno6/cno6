@@ -22,3 +22,8 @@
 ## Contact:
 
 [![vad.igumnoff@gmail.com](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vad.igumnoff@gmail.com) [![@wearecno6](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wearecno6)
+
+## Profiles:
+
+- [TypeHero](https://typehero.dev/)
+- [Codewars](https://www.codewars.com/users/Cno6)
