@@ -25,5 +25,5 @@
 
 ## Profiles:
 
-- [TypeHero](https://typehero.dev/)
+- [TypeHero](https://typehero.dev/@Cno6)
 - [Codewars](https://www.codewars.com/users/Cno6)
