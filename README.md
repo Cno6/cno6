@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Vadim.</h2>
 
 - 🇷🇺 I live in Moscow, Russia
-- 🕸 Front-end Develop
+- 🕸 Front-end Developer
 - 🔍 ~~Looking for a job~~
 - 📩 You can write to [email](mailto:vad.igumnoff@gmail.com)
 
